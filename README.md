@@ -7,10 +7,8 @@ WPF-приложение для генерации, обработки, визу
   <li>.NET 9</li>
   <li>WPF — UI</li>
   <li>SQLite — локальное хранение</li>
-  <li>LiveCharts — визуализация графиков</li>
+  <li>OxyGen — визуализация графиков</li>
   <li>Serilog — логирование</li>
   <li>EF Core — работа с БД</li>
   <li>xUnit + Moq — тестирование</li>
 </ol>
-
-EvgenyMolodykh/WPFGenerateSignal
