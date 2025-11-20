@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:converters="clr-namespace:WPFGenerateSignal.Resources.Converters">
+
+    <converters:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    <converters:ParametersChangedToColorConverter x:Key="ParametersChangedToColorConverter" />
+    <converters:InverseBooleanConverter x:Key="InverseBooleanConverter" />
+
+</ResourceDictionary>
