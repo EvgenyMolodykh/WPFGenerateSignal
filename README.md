@@ -12,3 +12,5 @@ WPF-приложение для генерации, обработки, визу
   <li>EF Core — работа с БД</li>
   <li>xUnit + Moq — тестирование</li>
 </ol>
+<hr>
+![2025-11-20-13-55](https://github.com/user-attachments/assets/06db3879-3935-47a9-8679-b94456771142)
