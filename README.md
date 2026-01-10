@@ -9,11 +9,11 @@ WPF-приложение для генерации, обработки, визу
 
 <ol>
   <li>.NET 9</li>
-  <li>WPF — UI</li>
-  <li>SQLite — локальное хранение</li>
-  <li>OxyGen — визуализация графиков</li>
-  <li>Serilog — логирование</li>
-  <li>EF Core — работа с БД</li>
+  <li>WPF - UI</li>
+  <li>SQLite - локальное хранение</li>
+  <li>OxyGenPlot - визуализация графиков</li>
+  <li>Serilog - логирование</li>
+  <li>EF Core - работа с БД</li>
   <li>xUnit + Moq — тестирование</li>
 </ol>
 
